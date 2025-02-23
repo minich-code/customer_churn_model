@@ -1,4 +1,5 @@
 # Predictive Churn Analysis: Optimizing Customer Retention for SyriaTel
+![Alt Text](images/churn_risk.png)
 # Business Problem
 - SyriaTel, like many telecom companies, faces customer churn, where users discontinue their services. This results in:
 
